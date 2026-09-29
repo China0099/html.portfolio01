@@ -1,0 +1,22 @@
+body {
+    background-color: #F5F7FA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: blue;  
+}
+
+img {
+    padding: 10px;
+    border: 10px solid black;
+}
+
+p {
+    color: #374151;
+}
+
+button {
+    background-color: #2563EB;
+    color: white;
+}
